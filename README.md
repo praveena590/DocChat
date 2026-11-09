@@ -27,7 +27,7 @@ You need Node.js 20 or newer.
 
 ```bash
 git clone <your-repo-url>
-cd docchat
+cd Frontend
 npm install
 npm run dev
 ```
